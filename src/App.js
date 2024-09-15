@@ -15,8 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and git
-        </a>
+          Learn React and GIT
+          </a>
       </header>
     </div>
   );
